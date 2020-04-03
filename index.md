@@ -5,7 +5,7 @@ layout: default
 # clayton escouper das chagas
 [![ghub_logo_32px.png](ghub_logo_32px.png "https://github.com/claytonchagas")](https://github.com/claytonchagas)
 [![lin_logo_32px.png](lin_logo_32px.png "www.linkedin.com/in/claytonescouperdaschagas")](https://www.linkedin.com/in/claytonescouperdaschagas)
-[![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")]<claytonchagas1@gmail.com>
+[![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
 __________________________________________________________________
 
 ### I'm a Ph.D. Student in Computing at UFF and Professor.
