@@ -8,16 +8,12 @@ layout: default
 [![lin_logo_32px.png](lin_logo_32px.png "linkedin.com/in/claytonescouperdaschagas")](https://www.linkedin.com/in/claytonescouperdaschagas)
 [![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
 
+<br><br>
 ### I'm a Ph.D. Student in Computing at UFF and Professor.
 ### In my studies, I'm interested in understand and mapping methodologies and technicks of software engineering and database to speed up scientific experiments
 
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
-
-### Previous areas that I have some knowledge:
-- Antenas
-- Radares
-- Compatibilidade Eletromagnética
-- Acreditação Laboratorial
+<br><br>
 
 ### Interested areas in computing:
 - Programming: Java, Python and R
@@ -27,6 +23,14 @@ layout: default
 - Machine Learning
 - Cloud Computing
 
+<br><br>
+### Previous areas that I have some knowledge:
+- Antenas
+- Radares
+- Compatibilidade Eletromagnética
+- Acreditação Laboratorial
+
+<br><br>
 ### Personal interesteds:
 - Bike
 - Meditação
@@ -37,6 +41,7 @@ layout: default
 - Alguns instrumentos musicais
 - GI Joe
 
+<br><br>
 ### Previous interesteds areas:
 - Basquete
 - Judo
