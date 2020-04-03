@@ -10,7 +10,7 @@ layout: default
 [![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
 <hr>
 ### I'm a Ph.D. Student in Computing at UFF and Professor.
-### In my studies, I'm interested in understand and mapping methodologies and technicks of software engineering and database to speed up scientific experiments
+### In my studies, I'm interested in understanding and mapping methodologies and techniques of software engineering and database to speed up scientific experiments
 <br>
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 <hr>
@@ -25,24 +25,29 @@ layout: default
 
 <br>
 ### Previous areas that I have some knowledge:
-- Antenas
-- Radares
-- Compatibilidade Eletromagnética
-- Acreditação Laboratorial
+- Image and Video Processsing
+- 3D-Models
+- Antennas
+- Radar and RCS
+- Electromagnetic Compatibility
+- Laboratory Accreditation
 
 <br>
-### Personal interesteds:
-- Bike
-- Trekking, camping, adventure
-- Meditação
-- Natação
-- Mergulho snorkel
-- Observação dos astros
-- Fotografia
-- Alguns instrumentos musicais
-- GI Joe
+### Personal interests:
+- Bicycle
+- Trekking, camping and adventure
+- Meditation
+- Swimming
+- Snorkeling
+- Stargazing
+- Amateur photography
+- Some musical instruments
+- Food :-)
+- G.I. Joe
 
 <br>
-### Previous interesteds areas:
-- Basquete
-- Judo
+### Previous areas of interest:
+- Basketball
+- Judô
+- Beach volleyball
+- Classic games console (SNES and PS One)
