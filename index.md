@@ -38,6 +38,7 @@ layout: default
 - Trekking, camping and adventure
 - Meditation
 - Swimming
+- Arduino and Raspberry Pi
 - Snorkeling
 - Stargazing
 - Amateur photography
