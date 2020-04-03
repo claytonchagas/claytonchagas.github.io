@@ -13,6 +13,7 @@ layout: default
 ### In my studies, I'm interested in understand and mapping methodologies and technicks of software engineering and database to speed up scientific experiments
 
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
+
 <br>
 
 ### Interested areas in computing:
@@ -24,6 +25,7 @@ layout: default
 - Cloud Computing
 
 <br>
+
 ### Previous areas that I have some knowledge:
 - Antenas
 - Radares
@@ -31,6 +33,7 @@ layout: default
 - Acreditação Laboratorial
 
 <br>
+
 ### Personal interesteds:
 - Bike
 - Meditação
@@ -42,6 +45,7 @@ layout: default
 - GI Joe
 
 <br>
+
 ### Previous interesteds areas:
 - Basquete
 - Judo
