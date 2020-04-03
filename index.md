@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Clayton Escouper das Chagas
+# clayton escouper das chagas
 GitHub
 LinkedIn
 Gmail
