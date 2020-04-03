@@ -15,17 +15,15 @@ layout: default
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 
 <br>
-
 ### Interested areas in computing:
 - Programming: Java, Python and R
-- DevOps (CI/CD, IaaC, COnteiners)
+- DevOps (CI/CD, IaaC, Conteiners)
 - Refactoring
 - Big Data and Data Science
 - Machine Learning
 - Cloud Computing
 
 <br>
-
 ### Previous areas that I have some knowledge:
 - Antenas
 - Radares
@@ -33,9 +31,9 @@ layout: default
 - Acreditação Laboratorial
 
 <br>
-
 ### Personal interesteds:
 - Bike
+- Trekking, camping, adventure
 - Meditação
 - Natação
 - Mergulho snorkel
@@ -45,7 +43,6 @@ layout: default
 - GI Joe
 
 <br>
-
 ### Previous interesteds areas:
 - Basquete
 - Judo
