@@ -6,7 +6,7 @@ layout: default
 [![ghub_logo_32px.png](ghub_logo_32px.png)](https://github.com/claytonchagas)
 [![lin_logo_32px.png](lin_logo_32px.png)](https://www.linkedin.com/in/claytonescouperdaschagas)
 
-
+------------------------------------------------------------------------
 ### I'm a Ph.D. Student in Computing at UFF and Professor.
 ### In my studies, I'm interested in understand and mapping methodologies and technicks of software engineering and database to speed up scientific experiments
 
