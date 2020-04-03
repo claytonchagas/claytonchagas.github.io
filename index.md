@@ -9,7 +9,7 @@ layout: default
 ![logo_lattes_32px27px.png](logo_lattes_32px27px.png)
 [![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
 <hr>
-### I'm a Ph.D. Student in Computing at UFF and Professor.
+### I'm a Ph.D. Student in Computing at UFF and Professor
 ### In my studies, I'm interested in understanding and mapping methodologies and techniques of software engineering and database to speed up scientific experiments
 <br>
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
