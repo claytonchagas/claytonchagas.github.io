@@ -3,7 +3,7 @@ layout: default
 ---
 
 # clayton escouper das chagas
-![ghub_logo_32px.png](https://github.com/claytonchagas)
+[![ghub_logo_32px.png](ghub_logo_32px.png)](https://github.com/claytonchagas)
 ![lin_logo_32px.png](https://www.linkedin.com/in/claytonescouperdaschagas)
 GitHub
 LinkedIn
