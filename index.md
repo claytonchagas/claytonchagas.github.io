@@ -2,6 +2,7 @@
 layout: default
 ---
 ![me_mary_round_240px.png](me_mary_round_240px.png)
+<img align="center" src="me_mary_round_240px.png">
 
 # clayton escouper das chagas
 [![ghub_logo_32px.png](ghub_logo_32px.png "github.com/claytonchagas")](https://github.com/claytonchagas)
