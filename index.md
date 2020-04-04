@@ -17,6 +17,7 @@ layout: default
 <br>
 ### Interested areas in computing:
 - Programming: Java, Python and R
+- Agile
 - DevOps (CI/CD, IaaC, Conteiners)
 - Refactoring
 - Big Data and Data Science
@@ -31,6 +32,7 @@ layout: default
 - Radar and RCS
 - Electromagnetic Compatibility
 - Laboratory Accreditation
+- IT Governance
 
 <br>
 ### Personal interests:
