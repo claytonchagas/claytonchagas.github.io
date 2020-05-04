@@ -16,7 +16,7 @@ layout: default
 <hr>
 <br>
 ### My talent:
- - Although introspective, I get connect deeply with people and send my message, with honesty, kindness and passion.
+#### Although introspective, I get connect deeply with people and send my message, with honesty, kindness and passion.
 <br>
 ### Interested areas in computing:
 - Programming: Java, Python and R
