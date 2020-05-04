@@ -15,8 +15,7 @@ layout: default
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 <hr>
 <br>
-### My talent:
-#### Although introspective, I get connect deeply with people and send my message, with honesty, kindness and passion.
+### My talent (a friend said me once...): although introspective, I get connect deeply with people and send my message, with honesty, kindness, and passion.
 <br>
 ### Interested areas in computing:
 - Programming: Java, Python and R
