@@ -28,7 +28,7 @@ layout: default
 ### My talent =>> a friend once said to me: "although introspective, when you connect deeply with people, you send your message, with honesty, kindness, passion".
 
 <br>
-### Lifestyle =>> simple, practical, organized, lightweight, best cost-benefit. If I were a car, it would be an economic model, but with very good performance.
+### Lifestyle =>> simple, practical, organized, light, balance, best cost-benefit. If I were a car, it would be an economic model, but with good performance.
 
 <br>
 #### Skill levels (in each of the below items):
