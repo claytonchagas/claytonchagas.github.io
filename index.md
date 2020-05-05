@@ -68,10 +68,10 @@ layout: default
 - Italian
 - French
 
-### My talent =>> a friend once said to me: "although introspective, when you connect deeply with people, you send your message, with honesty, kindness, passion".
+### My talent =>> a friend once said to me: "although introspective, when you connect deeply with people, you send your message, with honesty, kindness, passion"
 
 ### My love, my life =>> my daugther (Maria, see the picture above) + my parents + my brother + my sister...
 
-### Lifestyle =>> simple, practical, organized, light, balance, best cost-benefit. If I were a car, it would be an economic model, but with good performance.
+### Lifestyle =>> simple, practical, organized, light, balance, best cost-benefit. If I were a car, it would be an economic model, but with good performance
 
-### Keywords =>> inspiration, overcoming, meditation, redemption, work well, family, loyalty.
+### Keywords =>> inspiration, overcoming, meditation, redemption, work well, family, loyalty
