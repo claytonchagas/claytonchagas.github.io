@@ -15,7 +15,7 @@ layout: default
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 <hr>
 <br>
-### My talent >> a friend once said to me: "although introspective, you connect deeply with people and send your message, with honesty, kindness, passion".
+### My talent =>> a friend once said to me: "although introspective, you connect deeply with people and send your message, with honesty, kindness, passion".
 <br>
 ### Interested areas in computing:
 - Programming: Java, Python and R
