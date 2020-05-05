@@ -9,7 +9,6 @@ layout: default
 ![logo_lattes_32px27px.png](logo_lattes_32px27px.png)
 [![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
 
-<br>
 <hr>
 ### I'm a Ph.D. Student in Computing at UFF (link UFF) and Professor (link IME)
 ### In my studies, I'm interested in understanding and mapping methodologies and techniques of software engineering, database and infrastructure to speed up scientific experiments and its lifecycle
