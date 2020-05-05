@@ -17,9 +17,9 @@ layout: default
 <hr>
 
 #### Skill levels (in each of the below items):
-+ ++    -> very good level
-+ +     -> good level
-+ no +  -> from beginner to the normal level
++ "++"    -> very good level
++ "+"     -> good level
++ "no +"  -> from beginner to the normal level
 
 ### Interested areas in computing (currently):
 - Programming: Java ++, Python and R
