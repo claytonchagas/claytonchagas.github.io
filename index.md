@@ -37,7 +37,7 @@ layout: default
 - Electromagnetic Compatibility +
 - Laboratory Accreditation and Certification +
 - IT Governance +
-- Mathematics ans Chemistry +
+- Mathematics and Chemistry +
 - 3D-Models
 
 ### Personal interests:
