@@ -4,17 +4,11 @@ layout: default
 ![me_mary_round_240px.png](me_mary_round_240px.png)
 
 <br>
-# above =>> my love, my life (Maria)... + my parents + my brother + my sister...
-
-<br>
-# here =>> my name, my links: clayton escouper das chagas
+# clayton escouper das chagas
 [![ghub_logo_32px.png](ghub_logo_32px.png "github.com/claytonchagas")](https://github.com/claytonchagas)
 [![lin_logo_32px.png](lin_logo_32px.png "linkedin.com/in/claytonescouperdaschagas")](https://www.linkedin.com/in/claytonescouperdaschagas)
 ![logo_lattes_32px27px.png](logo_lattes_32px27px.png)
 [![gmail_logo_32px.png](gmail_logo_32px.png "claytonchagas1@gmail.com")](mailto:claytonchagas1@gmail.com)
-
-<br>
-# below =>> my whole story...
 
 <br>
 <hr>
@@ -23,12 +17,6 @@ layout: default
 <br>
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 <hr>
-
-<br>
-### My talent =>> a friend once said to me: "although introspective, when you connect deeply with people, you send your message, with honesty, kindness, passion".
-
-<br>
-### Lifestyle =>> simple, practical, organized, light, balance, best cost-benefit. If I were a car, it would be an economic model, but with good performance.
 
 <br>
 #### Skill levels (in each of the below items):
@@ -88,3 +76,15 @@ no +  -> from beginner to the normal level
 - Spanish +
 - Italian
 - French
+
+<br>
+### My talent =>> a friend once said to me: "although introspective, when you connect deeply with people, you send your message, with honesty, kindness, passion".
+
+<br>
+### My love, my life =>> my daugther (Maria, see the picture above) + my parents + my brother + my sister...
+
+<br>
+### Lifestyle =>> simple, practical, organized, light, balance, best cost-benefit. If I were a car, it would be an economic model, but with good performance.
+
+<br>
+### Keywords =>> inspiration, overcoming, meditation, redemption, work well, passion, family, loyalty, honesty, kindness.
