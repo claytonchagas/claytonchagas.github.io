@@ -4,7 +4,7 @@ layout: default
 ![me_mary_round_240px.png](me_mary_round_240px.png)
 
 <br>
-# above =>> my love, my life (Maria)...besides my parents, brother and sister...
+# above =>> my love, my life (Maria)... + my parents + my brother + my sister...
 
 <br>
 # here =>> my name, my links: clayton escouper das chagas
