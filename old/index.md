@@ -14,14 +14,12 @@ layout: default
 ### In my studies, I'm interested in understanding and mapping methodologies and techniques of software engineering, database and infrastructure to speed up scientific experiments and its lifecycle
 ### Theme: A multidimensional approach to speed up the lifecycle of scientific experiments (sci ex)
 <hr>
-<<<<<<< HEAD:old/index.md
 <br>
 My talent: even introspective, I get connect deeply with people and send my message, with honesty, kindness and passion.
 <br>
 ### Interested areas in computing:
 - Programming: Java, Python and R
 - Agile
-=======
 
 #### Skill levels (in each of the below items):
 - "++"    -> very good level
@@ -31,7 +29,6 @@ My talent: even introspective, I get connect deeply with people and send my mess
 ### Interested areas in computing (currently):
 - Programming: Java ++, Python and R
 - Agile ++
->>>>>>> d98983fd7dd6e226ccf47e4cdc10146a5740fcc2:index.md
 - DevOps (CI/CD, IaaC, Conteiners)
 - Refactoring
 - Big Data and Data Science
